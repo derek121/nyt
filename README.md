@@ -1,5 +1,8 @@
 # Workpath Project
 
+Routes defined in `lib/comments_web/router.ex`
+Implementation in `lib/comments_web/controllers/comments_controller.ex`
+
 ```
 # Get UUIDs for the nyregion section
 $ curl http://localhost:4000/article_uuids/nyregion
